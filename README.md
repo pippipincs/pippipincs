@@ -6,6 +6,7 @@ I’m an undergraduate at University of Minnesota Twin Cities majoring in Comput
 🔭Projects I built:
 - Meditrack: a microservice-based patient-management system. Built with Java, gRpc, Kafka, Docker.
 - Key-value Store: a redis-compatible tcp key-value store server. Built with Golang.
+- NAND-to-Computer: Built a fully functional 16-bit computer from the ground up. Using HDL(simplified verilog)
 - to be continued...
 <!--
 **pippipincs/pippipincs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
