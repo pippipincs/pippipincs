@@ -1,6 +1,8 @@
 ## Hi there 👋
 I’m an undergraduate at University of Minnesota Twin Cities majoring in Computer Science. I’m drawn to system-level thinking, and I enjoy designing and building software where complex components interact in a scalable and reliable way. My interests focus on distributed backend systems and AI engineering.
 
+I am looking for Software Engineer Internships opportunities both in America and China.
+
 💼Experience: Ex intern @ World Salon, Urbot.
 
 🔭Projects I built:
