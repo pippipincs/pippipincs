@@ -9,7 +9,7 @@ I am looking for Software Engineer Internships opportunities both in America and
 - Meditrack: a microservice-based patient-management system. Built with Java, gRpc, Kafka, Docker.
 - Key-value Store: a redis-compatible tcp key-value store server. Built with Golang.
 - distributed-matmul : A progressively optimized implementation of Cannon's algorithm for distributed matrix multiplication using MPI.
-- 
+- PairGEMM : Optimized a high-performance CUDA kernel for pair-wise batched 4x4 matrix multiplication on NVIDIA T4 GPUs.
 - NAND-to-Computer: Built a fully functional 16-bit computer from the ground up. Using HDL(simplified verilog)
 - to be continued...
 <!--
