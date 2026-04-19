@@ -1,5 +1,10 @@
 ## Hi there 👋
 I’m an undergraduate at University of Minnesota Twin Cities majoring in Computer Science. I’m drawn to system-level thinking, and I enjoy designing and building software where complex components interact in a scalable and reliable way. My interests focus on distributed backend systems and AI engineering.
+
+💼Experience: Ex intern @ World Salon, Urbot.
+🔭Projects I built:
+- Meditrack: a microservice-based patient-management system. Built with Java, gRpc, Kafka, Docker.
+- Key-value Store: a redis-compatible tcp key value server. Built with Golang.
 <!--
 **pippipincs/pippipincs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
