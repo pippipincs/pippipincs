@@ -15,6 +15,8 @@ I am looking for Software Engineer Internships opportunities both in America and
 - PairGEMM : Optimized a high-performance CUDA kernel for pair-wise batched 4x4 matrix multiplication on NVIDIA T4 GPUs.
 - NAND-to-Computer: Built a fully functional 16-bit computer from the ground up. Using HDL(simplified verilog)
 - to be continued...
+
+[![My Skills](https://skillicons.dev/icons?i=java,c,cpp,css,dart,docker,expressgit,go,html,js,jenkins,kafka,latex,linux,md,nodejs,ocaml,opencv,postgres,postman,prisma,redisfigma&theme=light)](https://skillicons.dev)
 <!--
 **pippipincs/pippipincs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
