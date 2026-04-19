@@ -3,7 +3,10 @@ I’m an undergraduate at University of Minnesota Twin Cities majoring in Comput
 
 I am looking for Software Engineer Internships opportunities both in America and China.
 
-💼Experience: Ex intern @ World Salon, Urbot.
+💼Experience: 
+
+- Ex intern @ World Salon, Urbot.
+- software engineer & board member @ App Development Club at UMN
 
 🔭Projects I built:
 - Meditrack: a microservice-based patient-management system. Built with Java, gRpc, Kafka, Docker.
